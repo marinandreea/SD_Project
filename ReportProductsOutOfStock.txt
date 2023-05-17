@@ -1,0 +1,2 @@
+List with products out of stock: 
+1. id product: 3, name: product3, selling rate: 6

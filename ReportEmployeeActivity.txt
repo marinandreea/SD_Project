@@ -1,0 +1,3 @@
+List with employee activity: 
+1. id: 2, username: cashier1, selling activity: 4
+2. id: 3, username: cashier2, selling activity: 7

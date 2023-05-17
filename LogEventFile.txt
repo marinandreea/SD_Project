@@ -1,0 +1,9 @@
+Order with id 3 was placed on 11/03/2023
+
+Order details:
+ -> Client: Marin Andreea
+ -> Cashier: 1
+ -> Total price: 30.0
+ -> Status: Order finalized and paid!
+
+THANK YOU FOR YOUR ORDER! :)
